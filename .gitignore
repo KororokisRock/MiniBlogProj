@@ -1,0 +1,28 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# IDEA
+.idea/
+*.iml
+*.iws
+
+# Build
+build/
+out/
+
+# Logs
+*.log
+
+# Database
+*.db
+DBSTruct.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config
+src/main/resources/config.properties
